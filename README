@@ -5,6 +5,4 @@ Class: #cs540
 Notes :
  I only used test.cpp and did not create my own test file. I implemented the the functionality for int case first, insde the test.cpp itself and once it was working,moved it to Deque.hpp. And generilzed it later.
 
-Problems :
-1. Only "Test sort with different comparators." test case from test.cpp is not working. Reason - Could not complete sort functionality. The file 'my_test.cpp' contains all the working test cases from test.cpp.
 
